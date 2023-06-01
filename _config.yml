@@ -21,8 +21,8 @@
 title: 정수의 연습용 블로그
 tagline:             '정수는 연습중'
 description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://LeeJungSoo0701.Github.io
-baseurl:             /public
+url:                 https://leejungsoo0701.github.io/
+baseurl:             ""
 paginate:            5
 
 # About/contact
